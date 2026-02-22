@@ -45,12 +45,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-![Tharan's GitHub stats](https://github-readme-stats.vercel.app/api?username=THARAN16&show_icons=true&theme=radical)
-
----
-
 ## 📌 Connect With Me  
 
 - 💼 **LinkedIn:** [https://www.linkedin.com/in/tharansm](https://www.linkedin.com/in/tharansm)  

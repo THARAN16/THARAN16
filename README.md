@@ -51,5 +51,3 @@
 - 📧 **Email:** smtharan52@gmail.com  
 - 🌐 **Portfolio Web:** [https://tharansm.vercel.app/](https://tharansm.vercel.app/)  
 ---
-
-⭐ *Focused on consistency, fundamentals, and becoming a VLSI engineer.*

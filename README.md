@@ -86,10 +86,10 @@
 
 *Real RTL. Real hardware. Every design committed to GitHub.*
 
-- **🧮 [16-bit RISC-V Multicycle Processor](https://github.com/tharansm)** — Custom RISC-V core with Adaptive ALU and Modified Booth MAC unit, implemented on ZedBoard at 100MHz in Xilinx Vivado.
-- **⚡ [Modified Booth (Radix-4) Multiplier](https://github.com/tharansm)** — Verilog implementation of a Radix-4 Booth multiplier with partial product pipeline and positional weight alignment.
-- **🔋 [Low-Power 8×8 ROM Design](https://github.com/tharansm)** — Power-optimized ROM targeting Nexys Video (Artix-7), verified in simulation with Vivado power report comparison against baseline.
-- **🔁 [Reversible Logic Gate Library](https://github.com/tharansm)** — Verilog implementations of Feynman, Toffoli, Peres, and Fredkin gates for low-power digital design.
+- **16-bit RISC-V Multicycle Processor** — Custom RISC-V core with Adaptive ALU and Modified Booth MAC unit, implemented on ZedBoard at 100MHz in Xilinx Vivado.
+- **Modified Booth (Radix-4) Multiplier** — Verilog implementation of a Radix-4 Booth multiplier with partial product pipeline and positional weight alignment.
+- **Low-Power 8×8 ROM Design** — Power-optimized ROM targeting Nexys Video (Artix-7), verified in simulation with Vivado power report comparison against baseline.
+- **Reversible Logic Gate Library** — Verilog implementations of Feynman, Toffoli, Peres, and Fredkin gates for low-power digital design.
 
 ---
 
@@ -132,5 +132,5 @@
 </p>
 
 <p align="center">
-  <sub>⚡ Verilog · FPGA · RISC-V · Python · SQL — RTL student today. Chip designer tomorrow. ⚡</sub>
+  <sub>⚡ Verilog · FPGA · Python · SQL — RTL student today. Chip designer tomorrow. ⚡</sub>
 </p>

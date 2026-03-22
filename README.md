@@ -89,7 +89,6 @@
 - **🧮 [16-bit RISC-V Multicycle Processor](https://github.com/tharansm)** — Custom RISC-V core with Adaptive ALU and Modified Booth MAC unit, implemented on ZedBoard at 100MHz in Xilinx Vivado.
 - **⚡ [Modified Booth (Radix-4) Multiplier](https://github.com/tharansm)** — Verilog implementation of a Radix-4 Booth multiplier with partial product pipeline and positional weight alignment.
 - **🔋 [Low-Power 8×8 ROM Design](https://github.com/tharansm)** — Power-optimized ROM targeting Nexys Video (Artix-7), verified in simulation with Vivado power report comparison against baseline.
-- **🔗 [UART-based AXI-Lite Interface](https://github.com/tharansm)** — PS-PL bridge on ZedBoard using AXI-Lite slave registers and XUartPs drivers for 16-bit operand input from PC.
 - **🔁 [Reversible Logic Gate Library](https://github.com/tharansm)** — Verilog implementations of Feynman, Toffoli, Peres, and Fredkin gates for low-power digital design.
 
 ---

@@ -61,8 +61,6 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Python-Scripting-f7d54c?style=for-the-badge&logo=python&logoColor=black"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/SQL-Database-3b82f6?style=for-the-badge&logo=mysql&logoColor=white"/>
-  &nbsp;
   <img src="https://img.shields.io/badge/Linux-Terminal-22d3ee?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 

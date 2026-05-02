@@ -44,8 +44,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="70" title="Linux"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" title="Git"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70" title="SQL"/>
 </p>
 
 <p align="center">
@@ -62,20 +60,6 @@
   <img src="https://img.shields.io/badge/Python-Scripting-f7d54c?style=for-the-badge&logo=python&logoColor=black"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Linux-Terminal-22d3ee?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
-
----
-
-## 📊 GitHub Stats & Grind
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tharansm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=3b82f6&text_color=94a3b8" width="48%"/>
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharansm&theme=tokyonight&hide_border=true&background=0d1117&ring=22d3ee&fire=3b82f6&currStreakLabel=22d3ee" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharansm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=94a3b8" width="40%"/>
 </p>
 
 ---
@@ -130,5 +114,5 @@
 </p>
 
 <p align="center">
-  <sub>⚡ Verilog · FPGA · Python · SQL — RTL student today. Chip designer tomorrow. ⚡</sub>
+  <sub>⚡ Verilog · FPGA · Python · C++ — RTL student today. Chip designer tomorrow. ⚡</sub>
 </p>
